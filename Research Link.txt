@@ -1,0 +1,13 @@
+
+https://www.technologyreview.com/s/427210/an-app-to-turn-sign-language-to-text/
+http://www.mwftr.com/SD1415/ASL2Text.pdf
+http://ieeexplore.ieee.org/document/7800427/?reload=true
+http://cs231n.stanford.edu/reports/2016/pdfs/214_Report.pdf
+https://arxiv.org/pdf/1710.06836.pdf
+
+http://epubs.surrey.ac.uk/531441/1/SLR-LAP.pdf
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.50.4893&rep=rep1&type=pdf
+http://www.aaai.org/Papers/Symposia/Fall/1996/FS-96-05/FS96-05-017.pdf
+https://pdfs.semanticscholar.org/7e83/c2a76b8a3d3d2933091ef458aab0242cfe39.pdf
+http://iip.ict.ac.cn/sites/default/files/publication/2013_FG_xjchai_Sign%20Language%20Recognition%20and%20Translation%20with%20Kinect.pdf
+https://smartech.gatech.edu/bitstream/handle/1853/28997/iswc2003-sign.pdf?sequence=1&isAllowed=y
