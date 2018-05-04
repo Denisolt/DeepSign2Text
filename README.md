@@ -12,7 +12,7 @@ The data set is a collection of images of alphabets from the American Sign Langu
 
 Examples of the dataset (letters A to D):
 
-<img src="/Users/admin/Desktop/projects/DeepSign2Text/data/asl_alphabet_train/A/A10.jpg" width="200"><img src="/Users/admin/Desktop/projects/DeepSign2Text/data/asl_alphabet_train/B/B10.jpg" width="200"><img src="/Users/admin/Desktop/projects/DeepSign2Text/data/asl_alphabet_train/C/C10.jpg" width="200"><img src="/Users/admin/Desktop/projects/DeepSign2Text/data/asl_alphabet_train/D/D10.jpg" width="200">
+<img src="https://github.com/Denisolt/DeepSign2Text/blob/master/resources/A1.jpg?raw=true" width="200"><img src="https://github.com/Denisolt/DeepSign2Text/blob/master/resources/B1.jpg?raw=true" width="200"><img src="https://github.com/Denisolt/DeepSign2Text/blob/master/resources/C1.jpg?raw=true" width="200"><img src="https://github.com/Denisolt/DeepSign2Text/blob/master/resources/D1.jpg?raw=true" width="200">
 
 ## Networks:
 
@@ -65,3 +65,5 @@ Now either open the **ScratchCNN** notebook or **TransferLearning** notebook.
 
 Run the notebook. 
 
+## Additional Resources:
+All additional resources including other datasets and published papers are located in the folder [resources](https://github.com/Denisolt/DeepSign2Text/tree/master/resources)
