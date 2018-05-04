@@ -12,7 +12,7 @@ The data set is a collection of images of alphabets from the American Sign Langu
 
 Examples of the dataset (letters A to D):
 
-<img src="https://github.com/Denisolt/DeepSign2Text/blob/master/resources/A1.jpg?raw=true" width="200"><img src="https://github.com/Denisolt/DeepSign2Text/blob/master/resources/B1.jpg?raw=true" width="200"><img src="https://github.com/Denisolt/DeepSign2Text/blob/master/resources/C1.jpg?raw=true" width="200"><img src="https://github.com/Denisolt/DeepSign2Text/blob/master/resources/D1.jpg?raw=true" width="200">
+<img src="https://github.com/Denisolt/DeepSign2Text/blob/master/resources/A1.jpg?raw=true" width="200">            <img src="https://github.com/Denisolt/DeepSign2Text/blob/master/resources/B1.jpg?raw=true" width="200">            <img src="https://github.com/Denisolt/DeepSign2Text/blob/master/resources/C1.jpg?raw=true" width="200">            <img src="https://github.com/Denisolt/DeepSign2Text/blob/master/resources/D1.jpg?raw=true" width="200">
 
 ## Networks:
 
