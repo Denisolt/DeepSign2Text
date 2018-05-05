@@ -6,7 +6,7 @@ The project was started as the final project for Data MInig Course. The requirem
 
 ## Dataset:
 
-The dataset used in this implementation is [ASL Alphabet][https://www.kaggle.com/grassknoted/asl-alphabet] from Kaggle. 
+The dataset used in this implementation is [ASL Alphabet](https://www.kaggle.com/grassknoted/asl-alphabet) from Kaggle. 
 
 The data set is a collection of images of alphabets from the American Sign Language, separated in 29 folders which represent the various classes. The training data set contains 87,000 images which are 200x200 pixels. There are 29 classes, of which 26 are for the letters A-Z and 3 classes for *SPACE*, *DELETE* and *NOTHING*.
 
