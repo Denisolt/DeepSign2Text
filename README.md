@@ -41,10 +41,10 @@ Data was preprocessed with some data augmentation from Keras and fed into the ne
 
 The network have shown high performance results.
 
-| Implementation                         | loss | accuracy | validation loss | validation accuracy |
-| -------------------------------------- | ---- | -------- | --------------- | ------------------- |
-| Convolutional Neural Network (scratch) |      |          |                 |                     |
-| Transfer Learning                      |      |          |                 |                     |
+| Implementation                         | training loss | training accuracy | validation loss | validation accuracy |
+| -------------------------------------- | ------------- | ----------------- | --------------- | ------------------- |
+| Convolutional Neural Network (scratch) | 0.0584        | 0.9851            | 0.3794          | 0.9225              |
+| Transfer Learning                      |               |                   |                 |                     |
 
 # Insert a graph here
 
