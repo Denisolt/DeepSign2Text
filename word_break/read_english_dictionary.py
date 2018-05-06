@@ -1,9 +1,9 @@
 import json
 import os, sys
 
-def load_words():
+def load_words(file):
     try:
-        filename = os.path.join(os.getcwd(), "words_dictionary.json")
+        filename = os.path.join(os.getcwd(), str(file))
         with open(filename,"r") as english_dictionary:
             valid_words = json.load(english_dictionary)
             return valid_words
@@ -12,17 +12,20 @@ def load_words():
 
 def check_word(s):
     try:
-        if (english_words[str(s)] is 1):
+        if (english_words[str(s)] > 0):
             return True
+        else:
+            return False
     except KeyError:
         return False
 
-def define_words():
+def define_words(file):
+    global english_words
     try:
         if (not isinstance(english_words, dict)):
-            english_words = load_words()
+            english_words = load_words(file)
     except NameError:
-        english_words = load_words()
+        english_words = load_words(file)
 
 if __name__ == '__main__':
-    define_words()
+    define_words("words_dictionary.json")
