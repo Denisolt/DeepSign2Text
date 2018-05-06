@@ -17,9 +17,12 @@ def check_word(s):
     except KeyError:
         return False
 
-if __name__ == '__main__':
+def define_words():
     try:
         if (not isinstance(english_words, dict)):
-            english_words = load_words();
+            english_words = load_words()
     except NameError:
-        english_words = load_words();
+        english_words = load_words()
+
+if __name__ == '__main__':
+    define_words()
