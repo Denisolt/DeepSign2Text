@@ -37,8 +37,6 @@ In this implementation a regular **CNN** was created in **Keras** using a networ
 
 Data was preprocessed with some data augmentation from Keras and fed into the network. 
 
-<img src="https://raw.githubusercontent.com/Denisolt/DeepSign2Text/master/resources/cnn.png?token=AQYtUT7FCn67aoY0C4H22tV3Yi3FgQPwks5a-PUzwA%3D%3D">
-
 
 ## Results:
 
