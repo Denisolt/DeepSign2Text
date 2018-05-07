@@ -51,6 +51,9 @@ The network have shown high performance results.
 ## CNN
 <img src="https://github.com/Denisolt/DeepSign2Text/blob/master/models/cnn/accuracy_vs_epoch.png?raw=true" width="400"> <img src="https://github.com/Denisolt/DeepSign2Text/blob/master/models/cnn/loss_vs_epoch.png?raw=true" width="400">    
 
+## Transfer Learning
+<img src="https://github.com/Denisolt/DeepSign2Text/blob/master/models/transfer_learning/accuracy_vs_epoch.png?raw=true" width="400"> <img src="https://github.com/Denisolt/DeepSign2Text/blob/master/models/transfer_learning/loss_vs_epoch.png?raw=true" width="400">    
+
 ## Deployment:
 
 Dependencies used are located in a req.txt file
