@@ -21,6 +21,13 @@ Examples of the dataset (letters A to D):
 - using Transfer Learning from Inception V3
 - CNN built from scratch
 
+
+### Convolutionl Neural Net:
+
+In this implementation a regular **CNN** was created in **Keras** using a network similar to **VGG 16**.
+
+Data was preprocessed with some data augmentation from Keras and fed into the network. 
+
 ### Transfer Learning:
 
 **Transfer learning** or inductive transfer is a research problem in [machine learning](https://en.wikipedia.org/wiki/Machine_learning) that focuses on storing knowledge gained while solving one problem and applying it to a different but related problem.[[3]](https://en.wikipedia.org/wiki/Transfer_learning#cite_note-1) For example, knowledge gained while learning to recognize cars could apply when trying to recognize trucks. This area of research bears some relation to the long history of psychological literature on [transfer of learning](https://en.wikipedia.org/wiki/Transfer_of_learning), although formal ties between the two fields are limited.
@@ -31,13 +38,6 @@ Inception-v3 is trained for the [ImageNet](http://image-net.org/) Large Visual
 
 Inception is well suited for this task due to the fact that it works with images, therefore the features that all images have in common are already extracted.
 
-### Convolutionl Neural Net:
-
-In this implementation a regular **CNN** was created in **Keras** using a network similar to **VGG 16**.
-
-Data was preprocessed with some data augmentation from Keras and fed into the network. 
-
-
 ## Results:
 
 The network have shown high performance results.
@@ -45,10 +45,10 @@ The network have shown high performance results.
 | Implementation                         | training loss | training accuracy | validation loss | validation accuracy |
 | -------------------------------------- | ------------- | ----------------- | --------------- | ------------------- |
 | Convolutional Neural Network (scratch) | 0.0584        | 0.9851            | 0.3794          | 0.9225              |
-| Transfer Learning                      |               |                   |                 |                     |
+| Transfer Learning                      | 1.2887        | 0.6502            | 3.7230          | 0.2230              |
 
 # Graphs:
-## CNN
+## Convolutionl Neural Net
 <img src="https://github.com/Denisolt/DeepSign2Text/blob/master/models/cnn/accuracy_vs_epoch.png?raw=true" width="400"> <img src="https://github.com/Denisolt/DeepSign2Text/blob/master/models/cnn/loss_vs_epoch.png?raw=true" width="400">    
 
 ## Transfer Learning
