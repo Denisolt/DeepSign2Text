@@ -47,7 +47,9 @@ The network have shown high performance results.
 | Convolutional Neural Network (scratch) | 0.0584        | 0.9851            | 0.3794          | 0.9225              |
 | Transfer Learning                      |               |                   |                 |                     |
 
-# Insert a graph here
+# Graphs:
+## CNN
+<img src="https://github.com/Denisolt/DeepSign2Text/blob/master/models/cnn/accuracy_vs_epoch.png?raw=true" width="400"> <img src="https://github.com/Denisolt/DeepSign2Text/blob/master/models/cnn/loss_vs_epoch.png?raw=true" width="400">    
 
 ## Deployment:
 
