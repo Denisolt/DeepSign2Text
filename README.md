@@ -37,6 +37,7 @@ In this implementation a regular **CNN** was created in **Keras** using a networ
 
 Data was preprocessed with some data augmentation from Keras and fed into the network. 
 
+
 ## Results:
 
 The network have shown high performance results.
